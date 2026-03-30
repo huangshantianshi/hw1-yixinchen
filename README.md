@@ -23,7 +23,7 @@ This repository documents my first assignment using a coding assistant as part o
 git log --oneline
 ```
 
-- `[hash]` — Add README with repo description and git log
-- `[hash]` — Add manually edited final_version.md
-- `[hash]` — Add assistant-generated assistant_draft.md
-- `[hash]` — Initial repository setup with placeholder files
+
+- `032adeb` — Add manually edited final_version.md
+- `c64e156` — Add assistant-generated assistant_draft.md
+- `eb959ad` — Initial repository setup with placeholder files
