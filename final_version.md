@@ -2,11 +2,11 @@
 
 ## About Me
 
-My name is Yixin, and I am a student at Johns Hopkins University studying Information Systems and Artificial Intelligence (ISAI). I am drawn to the intersection of AI and interactive entertainment, and I believe game design is one of the most exciting creative fields to explore these tools. [ADD A PERSONAL DETAIL HERE — e.g., a specific game you love, a project you worked on, or why you chose ISAI]
+My name is Yixin, and I am a student at Johns Hopkins University studying Information Systems and Artificial Intelligence (ISAI). I am drawn to the intersection of AI and interactive entertainment, and I believe game design is one of the most exciting creative fields to explore these tools. The type of game I'm interested at is The binding of issac and other rouglike games.
 
 ## The Game Design Industry
 
-The game design industry sits at a crossroads of art, storytelling, and technology. Designing compelling games requires enormous creative output — building worlds, writing narratives, and crafting mechanics that keep players engaged. Generative AI is beginning to change what is possible here, enabling designers to prototype faster, generate richer content, and build more dynamic experiences. [REWRITE OR REMOVE THIS SENTENCE IF IT FEELS TOO VAGUE TO YOU]
+The game design industry sits at a crossroads of art, storytelling, and technology. Designing compelling games requires enormous creative output — building worlds, writing narratives, and crafting mechanics that keep players engaged. Generative AI is beginning to change what is possible here, enabling designers to prototype faster, generate richer content, and build more dynamic experiences. 
 
 ## 3 Ways Generative AI Could Be Useful in Game Design
 
@@ -14,17 +14,16 @@ The game design industry sits at a crossroads of art, storytelling, and technolo
 
 - **Dynamic narrative and dialogue:** Large language models can power NPC dialogue and branching storylines that adapt in real time to player choices, creating personalized story experiences beyond pre-written scripts.
 
-- **Rapid asset prototyping:** AI image and 3D generation tools allow designers to quickly produce visual prototypes — characters, environments, UI mockups — speeding up early-stage design work without waiting for full asset pipelines.
+
 
 ---
 
 ## My Manual Edits
 
 **What I changed:**
-[DESCRIBE WHAT YOU PERSONALLY CHANGED — e.g., "I revised the intro sentence to be more specific about my background" or "I added a detail about a game I enjoy"]
+I changed the part 'My interests' and also I delete the part of AI image in game industry, during my own experience, all these image are still raw, they cannot generate huge amounts of same style images.
 
 **Why I changed it:**
-[EXPLAIN YOUR REASONING — e.g., "The original felt too generic and didn't reflect my actual experience with game design"]
-
+Based on my own  it is against my experience
 **One thing the assistant wrote that I did not want to keep as-is:**
-[PICK ONE SENTENCE OR PHRASE FROM THE DRAFT THAT YOU REWROTE OR REMOVED, AND EXPLAIN WHY]
+The AI generative image part.
