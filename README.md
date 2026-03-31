@@ -23,7 +23,9 @@ This repository documents my first assignment using a coding assistant as part o
 git log --oneline
 ```
 
-
+- `7df86cc` - Final commit on readme.md
 - `032adeb` — Add manually edited final_version.md
 - `c64e156` — Add assistant-generated assistant_draft.md
 - `eb959ad` — Initial repository setup with placeholder files
+  
+youtube video link: https://youtu.be/iDLV0yvhHGY
